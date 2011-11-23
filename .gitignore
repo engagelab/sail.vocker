@@ -4,3 +4,7 @@
 .settings/org.eclipse.jdt.core.prefs
 
 *.class
+
+eclipse/classes/
+attachments/
+tmp/
